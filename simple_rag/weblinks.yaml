@@ -1,7 +1,8 @@
-# pydantic: https://docs.pydantic.dev/latest/llms-full.txt
+pydantic: https://docs.pydantic.dev/latest/llms-full.txt
 pydantic_ai: https://ai.pydantic.dev/llms-full.txt
-# langchain: https://python.langchain.com/llms.txt
-# langraph: https://langchain-ai.github.io/langgraph/llms-full.txt
+langchain: https://python.langchain.com/llms.txt
+langraph: https://langchain-ai.github.io/langgraph/llms-full.txt
 # a2a_protocol: https://raw.githubusercontent.com/google/A2A/refs/heads/main/llms.txt
-# instructor: https://python.useinstructor.com/llms.txt
+a2a_protocol: https://raw.githubusercontent.com/google/A2A/refs/heads/main/docs/llms.txt
+instructor: https://python.useinstructor.com/llms.txt
 # https://google.github.io/adk-docs/
