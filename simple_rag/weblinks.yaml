@@ -5,4 +5,5 @@ langraph: https://langchain-ai.github.io/langgraph/llms-full.txt
 # a2a_protocol: https://raw.githubusercontent.com/google/A2A/refs/heads/main/llms.txt
 a2a_protocol: https://raw.githubusercontent.com/google/A2A/refs/heads/main/docs/llms.txt
 instructor: https://python.useinstructor.com/llms.txt
+google_adk: https://raw.githubusercontent.com/google/adk-docs/refs/heads/main/llms.txt
 # https://google.github.io/adk-docs/
