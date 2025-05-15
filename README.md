@@ -14,3 +14,7 @@ To run `retrieve.py` in interactive mode, use the following command:
 ```bash
 python -i simple_rag/retrieve.py
 ```
+
+## Additional Information
+
+The documentation files are downloaded from their respective documentation locations (e.g., Pydantic AI) using the `download.py` script. After downloading, the `ingest.py` script performs vector embedding updates to prepare the data for retrieval operations.
